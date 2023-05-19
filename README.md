@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### I am a student of the second year of Computer Science
 
 ### I have worked with:
- - [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,css,html,angular,javascript&perline=20)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,css,html,angular,javascript,maven&perline=20)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=typescript,firebase,mysql,git,linux,r,julia,haskell&perline=20)](https://skillicons.dev)
  
 ### I am currently learning:
 - [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,scala,mongodb&perline=20)](https://skillicons.dev)
 ### I am willing to learn
-- [![My Skills](https://skillicons.dev/icons?i=kotlin,react,go,docker,kubernetes,kafka&perline=20)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=kotlin,react,go,gcp,docker,kubernetes,kafka&perline=20)](https://skillicons.dev)

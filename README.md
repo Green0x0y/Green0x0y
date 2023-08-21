@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I have worked with:
  - [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,css,html,angular,javascript,maven,mongodb&perline=20)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=typescript,firebase,mysql,git,linux,r,julia,scala,haskell&perline=20)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=typescript,firebase,mysql,git,linux,r,julia,scala,haskell,postman&perline=20)](https://skillicons.dev)
  
 ### I am currently learning:
 - [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,go&perline=20)](https://skillicons.dev)

@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ### I am currently learning:
 - [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,go,docker&perline=20)](https://skillicons.dev)
 ### I am willing to learn
-- [![My Skills](https://skillicons.dev/icons?i=django,react,postgresql,gcp,kubernetes,kafka&perline=20)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=django,react,postgresql,gcp,kubernetes,kafka,aws&perline=20)](https://skillicons.dev)

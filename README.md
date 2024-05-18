@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### I am a third year student of Computer Science
 
 ### I have worked with:
- - [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,css,html,angular,javascript,maven,mongodb,postgresql&perline=20)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=typescript,firebase,mysql,git,linux,r,julia,scala,haskell,postman,jira&perline=20)](https://skillicons.dev)
- 
+ - [![My Skills](https://skillicons.dev/icons?i=python,java,spring,hibernate,c,cpp,css,html,angular,javascript,maven,mongodb&perline=20)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=typescript,postgresql,firebase,mysql,git,linux,r,julia,scala,haskell,postman,jira&perline=20)](https://skillicons.dev)
+
 ### I am currently learning:
-- [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,go,docker,gcp,django&perline=20)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=go,docker,gcp,django,react&perline=20)](https://skillicons.dev)
 ### I am willing to learn
-- [![My Skills](https://skillicons.dev/icons?i=react,kubernetes,kafka,aws,azure&perline=20)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka,aws,azure&perline=20)](https://skillicons.dev)

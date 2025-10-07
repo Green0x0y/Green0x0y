@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am a third year student of Computer Science
 
 ### I have worked with:
  - [![My Skills](https://skillicons.dev/icons?i=python,java,spring,hibernate,c,cpp,css,html,angular,javascript,maven,mongodb&perline=20)](https://skillicons.dev)

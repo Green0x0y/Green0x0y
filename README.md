@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### I have worked with:
- - [![My Skills](https://skillicons.dev/icons?i=python,java,spring,hibernate,c,cpp,css,html,angular,javascript,maven,mongodb&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,hibernate,c,cpp,css,html,angular,javascript,maven,mongodb,gcp&perline=20)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=typescript,postgresql,firebase,mysql,git,linux,r,julia,scala,haskell,postman,django,react&perline=20)](https://skillicons.dev)
 
 ### I am currently learning:
-- [![My Skills](https://skillicons.dev/icons?i=go,docker,gcp&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker&perline=20)](https://skillicons.dev)
 ### I am willing to learn
-- [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka,aws,azure&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka,aws,azure&perline=20)](https://skillicons.dev)
